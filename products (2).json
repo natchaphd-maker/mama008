@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mama-tom-yum-kung",
+    "name": "มาม่ารสต้มยำกุ้ง",
+    "flavor": "Spicy",
+    "type": "บะหมี่กึ่งสำเร็จรูป",
+    "size": "1 ซอง",
+    "price": "รอกำหนดราคา",
+    "image": "images/tom-yum-kung.jpg",
+    "description": "รสชาติเปรี้ยวเผ็ดจัดจ้าน หอมกลิ่นต้มยำและกุ้ง"
+  },
+  {
+    "id": "mama-creamy-tom-yum",
+    "name": "มาม่ารสต้มยำกุ้งน้ำข้น",
+    "flavor": "Creamy",
+    "type": "บะหมี่กึ่งสำเร็จรูป",
+    "size": "1 ซอง",
+    "price": "รอกำหนดราคา",
+    "image": "images/creamy-tom-yum.jpg",
+    "description": "น้ำซุปเข้มข้น หอมมัน กลมกล่อม พร้อมรสเปรี้ยวเผ็ด"
+  },
+  {
+    "id": "mama-minced-pork",
+    "name": "มาม่ารสหมูสับ",
+    "flavor": "Mild",
+    "type": "บะหมี่กึ่งสำเร็จรูป",
+    "size": "1 ซอง",
+    "price": "รอกำหนดราคา",
+    "image": "images/minced-pork.jpg",
+    "description": "น้ำซุปหอมกลิ่นหมูสับ รสชาติกลมกล่อม อร่อยง่าย"
+  },
+  {
+    "id": "mama-yen-ta-fo",
+    "name": "มาม่ารสเย็นตาโฟ",
+    "flavor": "Sweet and Sour",
+    "type": "บะหมี่กึ่งสำเร็จรูป",
+    "size": "1 ซอง",
+    "price": "รอกำหนดราคา",
+    "image": "images/yen-ta-fo.jpg",
+    "description": "รสชาติเปรี้ยวหวาน เผ็ดเล็กน้อย สีสันน่ารับประทาน"
+  }
+]
